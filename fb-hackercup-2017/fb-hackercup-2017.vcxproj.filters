@@ -18,13 +18,16 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="q\fz.cpp">
+    <ClCompile Include="1\fz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="q\ll.cpp">
+    <ClCompile Include="1\mm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="q\pp.cpp">
+    <ClCompile Include="1\pp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1\bu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
