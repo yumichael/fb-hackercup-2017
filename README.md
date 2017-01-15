@@ -13,7 +13,7 @@ sane space and time also takes some thinking. I submitted Progress Pie and passe
 I submitted Manic Moving but did not pass. I am not planning to debug this after the fact at the moment. But the solution in my
 head for Manic Moving is the right solution, as taken up in the Facebook post. Finally, I was in the heat of working out
 Beach Umbrellas as time ran out. I tested against the Dropbox sample input/output afterwards and passed those tests, 2 hours after
-the contest.
+the contest, so if I had taken 2 more hours out of my day to spend on this I would have made the next round.
 ### Beach Umbrellas
 This is one of the most involved piece of software I have ever written. The actual problem solution is the most conceptually simple
 out of all the last 3 questions if you have seen that kind of combinatorial technique before, but being able to implement a program
